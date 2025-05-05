@@ -1,6 +1,6 @@
 # Crypto Projects MCP Server
 
-An MCP server that provides cryptocurrency project data from Mobula.io to AI agents
+An MCP server that provides cryptocurrency project data from [Mobula.io](https://mobula.io/) to AI agents.
 
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
