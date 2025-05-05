@@ -1,0 +1,9 @@
+[project]
+name = "crypto-projects-mcp"
+version = "0.1.0"
+description = "An MCP server providing cryptocurrency project data to AI agents"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "mcp[cli]>=1.7.1",
+]
