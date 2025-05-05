@@ -2,6 +2,10 @@
 
 An MCP server that provides cryptocurrency project data from [Mobula.io](https://mobula.io/) to AI agents.
 
+<a href="https://glama.ai/mcp/servers/@kukapay/crypto-projects-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@kukapay/crypto-projects-mcp/badge" alt="crypto-projects-mcp MCP server" />
+</a>
+
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
@@ -245,4 +249,3 @@ This generates a Markdown document with detailed sections. Example output for Av
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
