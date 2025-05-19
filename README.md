@@ -1,5 +1,7 @@
 # Crypto Projects MCP Server
 
+[![smithery badge](https://smithery.ai/badge/@kukapay/crypto-projects-mcp)](https://smithery.ai/server/@kukapay/crypto-projects-mcp)
+
 An MCP server that provides cryptocurrency project data from [Mobula.io](https://mobula.io/) to AI agents.
 
 <a href="https://glama.ai/mcp/servers/@kukapay/crypto-projects-mcp">
@@ -18,6 +20,14 @@ An MCP server that provides cryptocurrency project data from [Mobula.io](https:/
 - **Language Support**: Customize output language based on system locale or user-specified settings.
 
 ## Installation
+
+### Installing via Smithery
+
+To install Crypto Projects for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@kukapay/crypto-projects-mcp):
+
+```bash
+npx -y @smithery/cli install @kukapay/crypto-projects-mcp --client claude
+```
 
 ### Prerequisites
 
